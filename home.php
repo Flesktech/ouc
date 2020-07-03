@@ -48,7 +48,7 @@
 							<li><a href="#client">Client</a></li>
 							<li><a href="#team">Team</a></li>
 							<li><a href="#contact">Contact</a></li>
-							<li><a class="download-btn" href="#contact-area">Download</a></li>
+							
 						</ul>
 					</div>
 				</div>
@@ -62,9 +62,9 @@
 					<div class="row">
 						<div class="col-md-offset-4 col-sm-offset-4 col-md-8">
 							<div class="hero-text mr-ri-l">
-								<h1>Moto All solution Head</h1>
-								<p>Nulla aliquet, erat a egestas lacinia, leo libero dapibus nisl, quis pulvinar dolor justo id turpis. Nulla odio orci.</p>
-								<a href="#" class="hero-btn">Download</a>
+								<h1>Build Your Ideas and Business</h1>
+								<p>Creativity and Innovation Used to Power Africa .</p>
+								<a href="#" class="hero-btn">Learn More</a>
 							</div>
 						</div>
 					</div>
